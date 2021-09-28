@@ -1,6 +1,6 @@
 ## Weather App
 
-[Live](https://github.com/hvanotten/webpack_weather.git)
+[Live](https://hvanotten.github.io/webpack_weather/)
 
 This Project uses the Open Weather Map API to retrieve weather data and displays a mobile first responsive web design. This App also features accessibility considerations, the Geolocation API, persistent data storage, the FETCH API with Async/Await.
 
