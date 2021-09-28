@@ -1,10 +1,8 @@
-
-
 ## Weather App
 
-This Projects uses the Open Weather Map API to retrieve weather data and displays a mobile first responsive web design. This App also features accessibility considerations, the geolocation API, persistent data storage, the FETCH API with Async/Await, and Serverless Functions.
+[Live](https://github.com/hvanotten/webpack_weather.git)
 
-
+This Project uses the Open Weather Map API to retrieve weather data and displays a mobile first responsive web design. This App also features accessibility considerations, the Geolocation API, persistent data storage, the FETCH API with Async/Await.
 
 User Stories:
 
@@ -13,11 +11,11 @@ User Stories:
 - Weather Icon or background image will change depending on weather conditions.
 - User can search for weather information on other places
 
-
 Design
+
 - Headline at the top
 - Animated weather image under headline
-- the current local temp will be displayed in default (Celcius)
+- the current local temp will be displayed in default (Celsius)
 - show local time
 - show weather description
 - a search box will be present for searching weather for other locations
@@ -28,16 +26,10 @@ Design
   - you can search for the weather conditions of other locations
   - the animated weather image will change depending on the location's weather conditions
 
-Key take away's
+## Learning Outcomes:
 
-the major takeaway here is that I learnt how to access each part of the returned JSON data from the API response and use it in different ways
+The major takeaway here is that I was demonstrating how to access each part of the returned JSON data from the API response and use it in different ways to access certain information.
 
-this is my first using SASS in a project vs just practice so I was excited to see what I could do.
+This is my first using SASS in a project vs just practice so I was excited to see what I could do. Had some problems with images but planning on doing some more reading and coming back to it.
 
-I've been spending a lot of time studying and learning about accessibility and screen readers. In this project i wanted to make sure I included accessibility testing and also included testing with a Screen Reader.
-
-Did some research on hiding API keys and added a few serverless functions in order to do so
-
-
-
-found pictures on unsplash need to add image loader to make them work. will add that after i research it.
+I've been spending most of my time studying and learning about accessibility and screen readers. In this project i wanted to make sure I included accessibility testing and also included testing with a Screen Reader.
